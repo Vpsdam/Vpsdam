@@ -17,6 +17,8 @@ Atualmente, estou cursando a faculdade de Ciência da Computação, no sétimo (
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Hubspot" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://img.icons8.com/?size=100&id=Xq3RA1kWzz3X&format=png&color=000000)">
+  
 </div>  
 
 ##  
